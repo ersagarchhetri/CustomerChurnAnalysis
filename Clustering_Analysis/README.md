@@ -1,2 +1,5 @@
 # Clustering Analysis
 
+Clustering_Analysis/kmeans_model.py
+Clustering_Analysis/elbow_method_plot.png
+Clustering_Analysis/cluster_summary.csv
